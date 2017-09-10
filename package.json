@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "dat.gui": "^0.6.1",
+    "howler": "^2.0.4",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
+    "three": "^0.87.1"
   },
   "scripts": {
     "start": "react-scripts start",
