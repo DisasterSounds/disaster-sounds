@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features":
+        [
+            { "geometry": {
+                "type": "Point",
+                "coordinates": [35.5, 31.1]},
+                "type": "Feature",
+                "properties": {
+                    "Region_code": "140",
+                    "Country": "JORDAN",
+                    "Location_name": "JORDAN:  BAB-A-DARAA,AL-KARAK",
+                    "Intensity": "",
+                    "Hour": "",
+                    "Eq_mag_ml": "",
+                    "Eq_mag_mb": "",
+                    "Focal_depth": "",
+                    "I_d": "1",
+                    "Eq_mag_unk":" 7.3",
+                    "Flag_tsunami": "",
+                    "Month": "",
+                    "Second": "    ",
+                    "State": "",
+                    "Eq_mag_mfa": "",
+                    "Year": "-2150",
+                    "Eq_mag_ms": "",
+                    "Eq_primary": " 7.3",
+                    "Eq_mag_mw": "",
+                    "Day": "",
+                    "Minute": ""
+                }
+            },
+            {"geometry": {"type": "Point", "coordinates": [58.2, 38.0]}, "type": "Feature", "properties": {"Region_code": "40", "Country": "TURKMENISTAN", "Location_name": "TURKMENISTAN:  W", "Intensity": "10", "Hour": "", "Eq_mag_ml": "", "Eq_mag_mb": "", "Focal_depth": "18", "I_d": "3", "Eq_mag_unk": "", "Flag_tsunami": "", "Month": "", "Second": "", "State": "", "Eq_mag_mfa": "", "Year": "-2000", "Eq_mag_ms": " 7.1", "Eq_primary": " 7.1", "Eq_mag_mw": "", "Day": "", "Minute": ""}}, {"geometry": {"type": "Point", "coordinates": [35.8, 35.683]}, "type": "Feature", "properties": {"Region_code": "130", "Country": "SYRIA", "Location_name": "SYRIA:  UGARIT", "Intensity": "10", "Hour": "", "Eq_mag_ml": "", "Eq_mag_mb": "", "Focal_depth": "", "I_d": "2", "Eq_mag_unk": "", "Flag_tsunami": "Tsu", "Month": "", "Second": "", "State": "", "Eq_mag_mfa": "", "Year": "-2000", "Eq_mag_ms": "", "Eq_primary": "", "Eq_mag_mw": "", "Day": "", "Minute": ""}}, {"geometry": {"type": "Point", "coordinates": [25.4, 36.4]}, "type": "Feature", "properties": {"Region_code": "130", "Country": "GREECE", "Location_name": "GREECE:  THERA ISLAND (SANTORINI)", "Intensity": "", "Hour": "", "Eq_mag_ml": "", "Eq_mag_mb": "", "Focal_depth": "", "I_d": "5877", "Eq_mag_unk": "", "Flag_tsunami": "Tsu", "Month": "", "Second": "", "State": "", "Eq_mag_mfa": "", "Year": "-1610", "Eq_mag_ms": "", "Eq_primary": "", "Eq_mag_mw": "", "Day": "", "Minute": ""}}]}
